@@ -1,7 +1,9 @@
 Sistem Pakar Rekrutmen Software Engineer
+
 Metode: Rule-Based Reasoning dengan Certainty Factor (Forward Chaining)
 
 Deskripsi Proyek
+
 Program ini merupakan sistem pakar sederhana yang digunakan untuk membantu proses seleksi calon Software Engineer.
 Sistem akan menanyakan beberapa pertanyaan kepada pengguna terkait latar belakang pendidikan, pengalaman kerja, kemampuan teknis, serta soft skill.
 Berdasarkan jawaban tersebut, sistem akan melakukan inferensi berbasis aturan (rule-based reasoning) dan menghitung tingkat keyakinan (certainty factor) untuk menentukan apakah kandidat LULUS atau TIDAK LULUS.
